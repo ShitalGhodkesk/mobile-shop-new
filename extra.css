@@ -1,0 +1,23 @@
+.nav-link:hover{
+    border-radius: 30%;
+    background-color: rgb(140, 177, 209);
+}
+.active{
+    color: brown;
+}
+marquee{
+    margin: 3px;
+    background-color: rgb(225, 132, 20);
+}
+fieldset{
+    margin: 5px;
+    border: 2px solid;
+    padding: 5px;
+}
+h5{
+    color: rgb(73, 26, 181);
+}
+.card-title:hover{
+    background-color: bisque;
+   color: rgb(129, 16, 110);
+}
